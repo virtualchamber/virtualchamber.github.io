@@ -6,3 +6,8 @@
 body {
     font-family: PlayfairDisplay, Georgia, serif;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
