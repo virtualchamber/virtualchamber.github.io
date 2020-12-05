@@ -1,0 +1,8 @@
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url(fonts/Playfair_Display/PlayfairDisplay-Black.tff);
+}
+
+body {
+    font-family: PlayfairDisplay, Georgia, serif;
+}
